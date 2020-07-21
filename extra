@@ -1,0 +1,70 @@
+////////////////////////
+Basic JavaScript
+Npm
+
+React = 3
+React_hooks -1
+React-Redux =2
+React-Saga -1
+React-GarphQL 1
+React-JWT(Login Logut)-1
+Basic React Native=1
+----------------------
+Testing
+
+Depolyment
+-> MERN
+-> Docker
+-> Nginx
+
+Mock API
+json-server
+
+Github
+
+--------NOT--------------
+API
+GarphQL
+Login/Logout
+
+//////////
+package.json
+> Starting point
+> Packages
+> meta data
+> script 
+
+json> JavaScript Object Notation
+[
+    {
+        id:1,
+        name:'John'
+    },
+    {
+        id:2,
+        name:'Alvin'
+    }
+]
+
+///////////
+Step to create package.json
+/////////
+** NodeJs must be installed
+> naviagate to the folder using cmd/termianl
+> npm init
+> Answer all question
+> Type 'yes'
+
+
+//////////
+installed npm package
+/////
+> localpackage
+> naviagate to the folder using cmd/termianl
+> npm i packagename/   npm install packagename
+ 
+
+> globalpackage
+
+
+>Setup React app
