@@ -60,11 +60,50 @@ Step to create package.json
 installed npm package
 /////
 > localpackage
+> Are local to the folder, there scope is inside the folder where its is installed
 > naviagate to the folder using cmd/termianl
 > npm i packagename/   npm install packagename
- 
-
+----------------------------------------------------------------
 > globalpackage
+> Are Local to the system and can be used in any application
+> Only package that help to run or setup the application
+> We need admin access to install global package
+> Will not add in package.json
+> no need to go inside any folder
+
+//Window
+> open cmd as admin
+> npm i -g create-react-app
+
+//MAc/linux
+> open termianl
+> sudo npm i -g create-react-app 
+
+////
+When we get application from any where
+////
+> npm i 
 
 
->Setup React app
+//////////////////////////////
+Setup React app
+//////////////////////////////
+//Window
+
+//First and only one time in one system
+> open cmd as admin
+> npm i -g create-react-app
+
+//Every next time you want to generate app
+> go inside folder where you want to generate using cmd
+> create-react-app appname
+------------------------------------------------
+#MAc/Linux
+
+//First and only one time in one system
+> open terminal
+> sudo npm i -g create-react-app
+
+//Every next time you want to generate app
+> go inside folder where you want to generate using cmd
+> create-react-app appname
