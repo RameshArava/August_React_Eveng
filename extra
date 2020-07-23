@@ -107,3 +107,19 @@ Setup React app
 //Every next time you want to generate app
 > go inside folder where you want to generate using cmd
 > create-react-app appname
+
+
+///////////////////////////////////////
+Component
+/////////////////////////////////
+Functional               ClassBase
+---------------------------------------
+Dumb Component           Logical Component
+light in weight          Heavy as compare to Functional
+display
+cannot maintain state    We can maintain state
+We cannot call API       We can call API
+
+We cannot manage         We can manage lifecycle
+lifecycle                 
+
